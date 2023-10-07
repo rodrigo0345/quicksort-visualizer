@@ -1,0 +1,3 @@
+/home/rodrigo0345/dev/hobby/raylib-fun/build/CMakeFiles/gamefight.dir
+/home/rodrigo0345/dev/hobby/raylib-fun/build/CMakeFiles/edit_cache.dir
+/home/rodrigo0345/dev/hobby/raylib-fun/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/sbin/cc CMakeFiles/my_c_executable.dir/main.c.o -o my_c_executable  -lRaylib::raylib 
